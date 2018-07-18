@@ -6,16 +6,16 @@
       </nuxt-link>
       <hr>
       <h1 class="title">
-        Adjuriblat
+        Shomismatr
       </h1>
       <h2 class="subtitle">
-        Esta página vamos a indexarla e intentar posicionarla para la keyword inventada Adjuriblat
+        Esta página vamos a indexarla e intentar posicionarla para la keyword inventada Shomismatr
       </h2>
       <app-content/>
       <div class="static-content">
-        <p>Actualmente no existe ningún resultado en Google para la keyword <strong>Adjuriblat</strong>, así que el objetivo será no solo indexar esta página en Google si no que aparezca en resultados de búsqueda.</p>
+        <p>Actualmente no existe ningún resultado en Google para la keyword <strong>Shomismatr</strong>, así que el objetivo será no solo indexar esta página en Google si no que aparezca en resultados de búsqueda.</p>
         <p>Desde esta página, vamos a enlazar a otra subpágina a indexar y posicionar por otra keyword inventada:</p>
-        <nuxt-link to="/kicalithno" class="button--green">Kicalithno</nuxt-link>
+        <nuxt-link to="/gophoeminu" class="button--green">Gophoeminu</nuxt-link>
       </div>
     </div>
     <app-footer/>

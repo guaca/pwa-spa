@@ -1,4 +1,7 @@
 module.exports = {
+
+  mode: 'spa',
+
   modules: [
        '@nuxtjs/pwa',
   ],

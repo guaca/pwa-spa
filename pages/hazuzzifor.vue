@@ -6,16 +6,16 @@
       </nuxt-link>
       <hr>
       <h1 class="title">
-        Requacifin
+        Hazuzzifor
       </h1>
       <h2 class="subtitle">
-        Esta página vamos a indexarla e intentar posicionarla para la keyword inventada Requacifin
+        Esta página vamos a indexarla e intentar posicionarla para la keyword inventada Hazuzzifor
       </h2>
       <app-content/>
       <div class="static-content">
-        <p>Actualmente no existe ningún resultado en Google para la keyword <strong>Requacifin</strong>, así que el objetivo será no solo indexar esta página si no que aparezca en resultados de búsqueda.</p>
+        <p>Actualmente no existe ningún resultado en Google para la keyword <strong>Hazuzzifor</strong>, así que el objetivo será no solo indexar esta página si no que aparezca en resultados de búsqueda.</p>
         <p>Desde esta página, vamos a enlazar a otra subpágina a indexar y posicionar por otra keyword inventada:</p>
-          <nuxt-link to="/wekilinest" class="button--green">Wekilinest</nuxt-link>
+          <nuxt-link to="/swepallati" class="button--green">Swepallati</nuxt-link>
       </div>
     </div>
     <app-footer/>
