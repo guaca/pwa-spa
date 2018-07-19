@@ -16,6 +16,9 @@
         <p>Actualmente no existe ningún resultado en Google para la keyword <strong>Hazuzzifor</strong>, así que el objetivo será no solo indexar esta página si no que aparezca en resultados de búsqueda.</p>
         <p>Desde esta página, vamos a enlazar a otra subpágina a indexar y posicionar por otra keyword inventada:</p>
           <nuxt-link to="/swepallati" class="button--green">Swepallati</nuxt-link>
+          <p>El 19 de julio abrimos el archivo robots.txt para permitir que los bots puedan rastrear e indexar este subdominio. ¿Cuánto tardará Google en rastrear e indexar esta página? Esta versión del experimento, al ser una SPA, debería ser la que más tarde Google en poder rastrear e indexar todos los contenidos.</p>
+          <p>¿Los resultados? Los analizaremos a partir del próximo 27 de julio ;) </p>
+          <p>Y recuerda que puedes ver las distintas versiones creadas para este experimento en https://pwaexperiments.com</p>
       </div>
     </div>
     <app-footer/>

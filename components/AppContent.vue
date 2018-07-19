@@ -9,11 +9,17 @@
 </template>
 
 <style>
+.NuxtContent {
+  font-size: 22px;
+  color: #526488;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+  margin: 0 20px;;
+}
+
+@media screen and (max-width: 992px) {
   .NuxtContent {
-    font-size: 22px;
-    color: #526488;
-    word-spacing: 5px;
-    padding-bottom: 15px;
-    margin: 0 20px;;
+    font-size: 18px;
   }
+}
 </style>

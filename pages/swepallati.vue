@@ -14,6 +14,9 @@
       <app-content/>
       <div class="static-content">
         <p>Actualmente no existe ningún resultado en Google para la keyword <strong>Swepallati</strong>, así que el objetivo será no solo indexar esta página si no que aparezca en resultados de búsqueda.</p>
+        <p>El jueves 19 de julio eliminamos el bloqueo en el robots.txt para permitir que los bots puedan rastrear e indexar esta página. ¿Cuánto tardará Google en rastrearla e indexarla? Esta versión del experimento, al ser una SPA, debería ser la que más tarde Google en poder rastrear correctamente e indexar todos los contenidos.</p>
+        <p>¿Los resultados? Los veremos a partir del próximo 27 de julio. Stay tuned! ;) </p>
+        <p>Recuerda que puedes ver todas las versiones disponibles de este experimento en https://pwaexperiments.com</p>
       </div>
     </div>
     <app-footer/>
