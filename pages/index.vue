@@ -37,10 +37,10 @@ export default {
   },
   head () {
       return {
-        title: 'Cómo indexar una PWA y no morir en el intento - SPA mode',
+        title: 'Cómo indexar una SPA PWA y no morir en el intento',
         meta: [
           { hid: 'description', name: 'description', content: 'Esta es una SPA PWA desarrollada con Nuxt.js para comprobar el comportamiento de Google con este tipo de páginas' },
-          { hid: 'og:title', name: 'og:title', content: 'Cómo indexar una PWA y no morir en el intento - SPA mode' },
+          { hid: 'og:title', name: 'og:title', content: 'Cómo indexar una SPA PWA y no morir en el intento' },
           { hid: 'og:description', name: 'og:description', content: 'Esta es una SPA PWA desarrollada con Nuxt.js para comprobar el comportamiento de Google con este tipo de páginas' }
         ]
       }

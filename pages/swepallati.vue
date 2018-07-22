@@ -11,7 +11,6 @@
       <h2 class="subtitle">
         Esta página vamos a indexarla e intentar posicionarla para la keyword inventada Swepallati
       </h2>
-      <app-content/>
       <div class="static-content">
         <p>Actualmente no existe ningún resultado en Google para la keyword <strong>Swepallati</strong>, así que el objetivo será no solo indexar esta página si no que aparezca en resultados de búsqueda.</p>
         <p>El jueves 19 de julio eliminamos el bloqueo en el robots.txt para permitir que los bots puedan rastrear e indexar esta página. ¿Cuánto tardará Google en rastrearla e indexarla? Esta versión del experimento, al ser una SPA, debería ser la que más tarde Google en poder rastrear correctamente e indexar todos los contenidos.</p>
@@ -34,11 +33,11 @@ export default {
   },
   head () {
       return {
-        title: 'Wekilinest',
+        title: 'Swepallati - SPA PWA',
         meta: [
-          { hid: 'description', name: 'description', content: 'En esta página trabajamos la keyword inventada Wekilinest para comprobar la indexación de contenidos en buscadores de una SSR PWA.' },
-          { hid: 'og:title', name: 'og:title', content: 'Wekilinest' },
-          { hid: 'og:description', name: 'og:description', content: 'En esta página trabajamos la keyword inventada Wekilinest para comprobar la indexación de contenidos en buscadores de una SSR PWA.' }
+          { hid: 'description', name: 'description', content: 'En esta página trabajamos la keyword inventada Swepallati para comprobar la indexación de contenidos en buscadores de una SPA PWA.' },
+          { hid: 'og:title', name: 'og:title', content: 'Swepallati - SPA PWA' },
+          { hid: 'og:description', name: 'og:description', content: 'En esta página trabajamos la keyword inventada Swepallati para comprobar la indexación de contenidos en buscadores de una SPA PWA.' }
         ]
       }
     }
